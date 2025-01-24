@@ -1,4 +1,4 @@
-The Project Gutenberg EBook of The Creatures That Time Forgot, by Ray
+﻿The Project Gutenberg EBook of The Creatures That Time Forgot, by Ray
 Bradbury
 
 This eBook is for the use of anyone anywhere in the United States and
@@ -13,7 +13,7 @@ Title: The Creatures That Time Forgot
 
 Author: Ray Bradbury
 
-Release Date: December 05, 2020 [EBook #63874]
+Release Date: November 24, 2020 [EBook #63874]
 
 Language: English
 
@@ -76,7 +76,7 @@ tunnel beyond this living quarter. And as he watched, they began to die.
 Their agonies filled the cave. They melted like waxen images, their
 faces collapsed inward on their sharp bones, their teeth protruded. One
 minute their faces were mature, fairly smooth, alive, electric. The
-next minute a desiccation and burning away of their flesh occurred.
+next minute a desication and burning away of their flesh occurred.
 
 Sim thrashed in his mother's grasp. She held him. "No, no," she soothed
 him, quietly, earnestly, looking to see if this, too, would cause her
@@ -2392,9 +2392,9 @@ and permanent future for Project Gutenberg-tm and future
 generations. To learn more about the Project Gutenberg Literary
 Archive Foundation and how your efforts and donations can help, see
 Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org
+www.gutenberg.org 
 
-Section 3. Information about the Project Gutenberg Literary
+Section 3. Information about the Project Gutenberg Literary 
 Archive Foundation
 
 The Project Gutenberg Literary Archive Foundation is a non profit
